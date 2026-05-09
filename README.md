@@ -23,3 +23,6 @@ Issues Faced
 - Initially entered incorrect git command in terminal
 - Faced minor issues while cloning repository
 - Solved issues by correcting command syntax and reconnecting GitHub
+- Faced authentication issues while connecting GitHub with Cursor
+- Initially README changes were not getting reflected on GitHub because the file was not saved before pushing
+- Learned how git add, commit, and push commands work
